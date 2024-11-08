@@ -69,8 +69,11 @@
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ankan24&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ankan24&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankan24&langs_count=12&layout=compact&theme=tokyonight" alt="top langs" /> <br/> <hr/>
+  <br/><hr/>
+  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankan24&langs_count=12&layout=compact&theme=tokyonight" alt="top langs" /> <br/> <hr/>
+      <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankan24&layout=donut&theme=tokyonight"/> <br/>
+        <img width=390 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankan24&theme=tokyonight"/>
+          <img width=390 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankan24&theme=tokyonight"/> <br/> <hr/>
     <img width=1000 align="center" src="https://github-profile-trophy.vercel.app/?username=ankan24&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15" alt="trophy" /> <br/> <hr/>
  <img width=1000 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ankan24&theme=react-dark&hide_border=true" alt="activity" /> <br/>
     
