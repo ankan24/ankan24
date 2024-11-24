@@ -76,7 +76,8 @@
       <img width=390 height=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankan24&layout=donut&theme=tokyonight"/> <br/> <hr/>
         <img width=390 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankan24&theme=tokyonight"/>
           <img width=390 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankan24&theme=tokyonight"/> <br/> <hr/>
-         <img width=390 align="center" src="https://github-contributor-stats.vercel.app/api?username=ankan24&limit=5&theme=radical&combine_all_yearly_contributions=tru"/> <br/> <hr/>
+         <img width=390 src="https://github-contributor-stats.vercel.app/api?username=ankan24&limit=5&theme=radical&combine_all_yearly_contributions=tru"/> 
+     <img width=390 src="https://github-contributor-stats.vercel.app/api?username=ankan24&theme=github_dark"/> <br/> <hr/>
     <img width=1001 align="center" src="https://github-profile-trophy.vercel.app/?username=ankan24&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15" alt="trophy" /> <br/> <hr/>
    <img width=1001 align="center" src="https://ghchart.rshah.org/ankan24" alt="activity" /> <br/> <hr/>
  <img width=1001 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ankan24&theme=react-dark&hide_border=true" alt="activity" /> <br/>
