@@ -80,6 +80,7 @@
      <img width=390 src="https://github-contributor-stats.vercel.app/api?username=ankan24&theme=github_dark"/> <br/> <hr/>
     <img width=1001 align="center" src="https://github-profile-trophy.vercel.app/?username=ankan24&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15" alt="trophy" /> <br/> <hr/>
    <img width=1001 align="center" src="https://ghchart.rshah.org/ankan24" alt="activity" /> <br/> <hr/>
+ <img width=1001 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankan24&theme=github_dark" /> <br/>
  <img width=1001 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ankan24&theme=react-dark&hide_border=true" alt="activity" /> <br/>
     
 </div>
