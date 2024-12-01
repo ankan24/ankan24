@@ -72,6 +72,9 @@
   <img width=390 height=250 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ankan24&count_private=true&theme=github_dark&border_radius=10" alt="streak stats"/>
   <img width=390 height=250 src="https://github-readme-stats-salesp07.vercel.app/api?username=ankan24&count_private=true&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/><hr/>
+
+  <img align="center" width=390 height=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankan24&layout=compact&theme=github_dark&hide_progress=true&langs_count=40&count_private=true" alt="top langs" /> 
+  <br/><hr/>
   <img width=390 height=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankan24&langs_count=12&layout=compact&theme=github_dark" alt="top langs" /> 
       <img width=390 height=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankan24&layout=donut&theme=github_dark"/> <br/> <hr/>
         <img width=390 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankan24&theme=github_dark"/>
