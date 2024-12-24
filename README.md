@@ -48,22 +48,6 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 
-
- <h4>🛠️ Tech Stack</h4>
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/node-icon.svg" alt="Node.js" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/express-icon.svg" alt="Express.js" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/sql-icon.svg" alt="SQL" width="50" height="50" />
-
-
-
-
-
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,expressjs,mongodb,mysql" />
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,linux,git,github,codepen,vscode" />
