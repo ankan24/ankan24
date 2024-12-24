@@ -50,15 +50,16 @@
 
 
  <h4>🛠️ Tech Stack</h4>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/node-icon.svg" alt="Node.js" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/express-icon.svg" alt="Express.js" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/sql-icon.svg" alt="SQL" width="50" height="50" />
+
 
 
 
