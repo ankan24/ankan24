@@ -9,18 +9,6 @@
 <h3 align="center">A passionate software developer from India </h3>
 
 <br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **a MERN**
- 
- 🌱 I’m currently learning **Python , AWS**
-
-💬 Ask me about **Node.js, React.. or anything [here](https://github.com/ankan24)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
  
 <div align="center"> 
   <a href="mailto:ankanghorai@gmail.com">
