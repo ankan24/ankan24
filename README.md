@@ -68,7 +68,10 @@
   <img width=390 src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankan24&theme=github_dark"/> 
   <br/><hr/>
 
-  <img width=1001 align="center" src="https://github-profile-trophy.vercel.app/?username=ankan24&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15" alt="trophy" /> 
+ <h2 align="center">🏆 My Achievements 🏆</h2>
+<div align="center">
+   <img width="300" src="https://github-profile-trophy.vercel.app/?username=ankan24&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15" alt="trophy" />
+</div>
   <br/><hr/>
 
   <img width=1001 align="center" src="https://ghchart.rshah.org/ankan24" alt="activity" /> 
